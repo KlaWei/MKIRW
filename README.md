@@ -1,2 +1,2 @@
 # MKIRW
-Metody klasyfikacji i Redukcji Wymiaru
+Metody Klasyfikacji i Redukcji Wymiaru
